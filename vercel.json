@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "los_app.py": {
+      "runtime": "@vercel/python"
+    }
+  },
   "routes": [
     {
       "src": "/(.*)",
